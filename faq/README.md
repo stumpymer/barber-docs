@@ -18,9 +18,21 @@ async function getAvailableSlots(barberId, date) {
 }
 ```
 
+## Изображение
+
+![Услуги барбершопа](assets/5.jpg)
+
+![Рабочее место барбера](assets/6.jpg)
+
 ## Ссылка
 
 Для получения дополнительной информации посетите [наш сайт](https://example.com).
+
+## Изображение в ссылке
+
+[![Свяжитесь с нами](assets/5.jpg)](https://example.com)
+
+[![Наши услуги](assets/6.jpg)](https://example.com)
 
 
 <u>Старый номер телефона больше не работает</u>
